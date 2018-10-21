@@ -1,0 +1,9 @@
+body {
+  font-family: 'Merriweather', serif;
+  background-color: white;
+  color: red;
+  background-image: url(), url(http://3.bp.blogspot.com/-3dNf1bLfUbs/VePbKBVyuMI/AAAAAAAATdM/Q_Sx9FLFjeM/s1600/image-gallery-for-puppy-wallpaper-computer-background.jpg);
+    background-position: right bottom, left top;
+    background-repeat: no-repeat, repeat;
+    padding: 250px;
+}
